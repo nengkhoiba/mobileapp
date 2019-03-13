@@ -1,0 +1,11 @@
+.media-object{
+    width: 100%;
+}
+.action-bar{
+    background-color: #FF5252;
+    border-color: #FF5252;
+    color: #FFFFFF;
+}
+.navbar-default .navbar-brand {
+    color: #ffffff !important;
+}
